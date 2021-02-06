@@ -1,4 +1,4 @@
-# NXlog-Config
+# NXlog
 
 NXlog serves as a syslog forwarder for Windows workstations and servers. It can serve a critical role in helping centralize and manage the collection of Windows Eventlogs and, when paired with Sysmon, can aid in aggregating file integrity monitoring and security incident information.
 
