@@ -6,7 +6,7 @@
 $url1 = "https://nxlog.co/system/files/products/files/348/nxlog-ce-2.10.2150.msi"
 $file1 = "C:\nxlog-ce-2.10.2150.msi"
 
-$url2 = "https://raw.githubusercontent.com/Starke427/AlienVault/master/nxlog.conf"
+$url2 = "https://raw.githubusercontent.com/Starke427/NXlog/master/nxlog.conf"
 $file2 = "C:\Program Files (x86)\nxlog\conf\nxlog.conf"
 
 $SERVER_IP = Read-Host -Prompt 'What is the IP of your syslog server? '
